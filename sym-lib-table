@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name RGBSL-cache)(type Legacy)(uri ${KIPRJMOD}/RGBSL-cache.lib)(options "")(descr ""))
+)
