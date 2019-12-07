@@ -89,7 +89,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "PuckLight/"))
+      (outputdirectory "gerber/"))
   )
 
   (net 0 "")
@@ -351,7 +351,7 @@
   (segment (start 150.333597 56.134) (end 151.985359 54.482238) (width 0.635) (layer F.Cu) (net 5))
   (segment (start 149.352 56.134) (end 150.333597 56.134) (width 0.635) (layer F.Cu) (net 5))
 
-  (zone (net 4) (net_name "Net-(D1-Pad1)") (layer F.Cu) (tstamp 5DEAEB74) (hatch edge 0.508)
+  (zone (net 4) (net_name "Net-(D1-Pad1)") (layer F.Cu) (tstamp 5DEAE804) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -476,7 +476,7 @@
       )
     )
   )
-  (zone (net 4) (net_name "Net-(D1-Pad1)") (layer B.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 4) (net_name "Net-(D1-Pad1)") (layer B.Cu) (tstamp 5DEAE801) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
